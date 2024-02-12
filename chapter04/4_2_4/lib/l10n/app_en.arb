@@ -1,0 +1,11 @@
+{
+  "numOfSearchResult": "{count, plural, =0{There is no result} =1{1 result found} other{{count} results found}}",
+  "@numOfSearchResult": {
+    "description": "検索結果",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

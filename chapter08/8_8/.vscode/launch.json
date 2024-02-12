@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define-from-file=define/env.json"
+            ]
+        }
+    ]
+}
